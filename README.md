@@ -13,11 +13,5 @@ The Education System project is designed to manage various aspects of educationa
 ## Technologies Used
 - Programming Language**: Python
   
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/education-system.git
-   cd education-system
 
 
